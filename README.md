@@ -20,6 +20,14 @@
   </a>
 </p>
 
+## 投げ銭風メモ
+
+<p>
+  <a href="https://apple.co/4e4g39B">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="60px">
+  </a>
+</p>
+
 <!--
 **yskuem/yskuem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
