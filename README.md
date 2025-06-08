@@ -1,18 +1,19 @@
+# Hi there 👋
 
+Welcome to my GitHub profile! Here are some stats and shiny graphs.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yskuem&show_icons=true&theme=tokyonight" alt="yskuem's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yskuem&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<!--
-**yskuem/yskuem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yskuem&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yskuem&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophies" />
+</p>
